@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="10dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        app:cardBackgroundColor="#FFFAFA"
+        app:cardCornerRadius="20dp"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:src="@drawable/the_coffee_house_logo"/>
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_baseline_close_24"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="240dp"
+                    android:id="@+id/imgCloseChange"/>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Đổi mật khẩu"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:textSize="25dp"
+                android:textColor="@color/black"
+                />
+
+            <EditText
+                android:textColorHint="@color/black"
+                android:id="@+id/edMatKhauCu"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="20dp"
+                android:textAlignment="textStart"
+                android:textSize="16dp"
+                android:textColor="@color/black"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/edt_bd"
+                app:layout_constraintVertical_bias="0"
+                android:layout_marginTop="20dp"
+                app:layout_constraintHorizontal_bias=".5"
+                android:hint="Mật khẩu cũ"
+                android:inputType="textPassword"
+                />
+
+            <EditText
+                android:textColorHint="@color/black"
+                android:id="@+id/edMatKhauMoi"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="20dp"
+                android:textColor="@color/black"
+                android:textAlignment="textStart"
+                android:textSize="16dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/edt_bd"
+                app:layout_constraintVertical_bias="0"
+                android:layout_marginTop="20dp"
+                app:layout_constraintHorizontal_bias=".5"
+                android:hint="Mật khẩu mới"
+                android:inputType="textPassword"
+                />
+
+            <EditText
+                android:textColorHint="@color/black"
+                android:id="@+id/edNhapLaiMKChange"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="20dp"
+                android:textAlignment="textStart"
+                android:textSize="16dp"
+                android:layout_marginLeft="20dp"
+                android:textColor="@color/black"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/edt_bd"
+                app:layout_constraintVertical_bias="0"
+                android:layout_marginTop="20dp"
+                app:layout_constraintHorizontal_bias=".5"
+                android:hint="Nhập lại mật khẩu mới"
+                android:inputType="textPassword"
+                />
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnDoiMK"
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dp"
+                android:textSize="16dp"
+                android:layout_marginBottom="20dp"
+                android:textColor="@color/white"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/button_bg"
+                android:text="Đổi Mật Khẩu"
+                android:textStyle="bold"
+                />
+
+
+        </LinearLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+
+
+
+
+        </LinearLayout>
+
+
+
+
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/btNav_Home" android:title="Home" android:icon="@drawable/icon_home"/>
+    <item android:id="@+id/btNav_Oder" android:title="Đặt hàng" android:icon="@drawable/icon_dathang"/>
+    <item android:id="@+id/btNav_Shop" android:title="Shop" android:icon="@drawable/icon_shop"/>
+    <item android:id="@+id/btNav_Offer" android:title="Ưu đãi" android:icon="@drawable/icon_ticket"/>
+    <item android:id="@+id/btNav_Other" android:title="Khác" android:icon="@drawable/icon_view"/>
+
+</menu>

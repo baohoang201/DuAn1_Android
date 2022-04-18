@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:textColor="@color/black"
+    android:background="#FFF6E5"
+    android:layout_height="match_parent">
+   <androidx.cardview.widget.CardView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="vertical">
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="Danh sách cửa hàng"
+               android:layout_gravity="left"
+               android:textStyle="bold"
+               android:textSize="20dp"
+               android:textColor="@color/black"
+               android:layout_margin="15dp"/>
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:orientation="horizontal">
+
+
+                 <com.google.android.material.textfield.TextInputEditText
+                     android:layout_width="250dp"
+                     android:layout_height="40dp"
+                     android:layout_weight="1"
+                     android:id="@+id/edSearchShop"
+                     android:layout_margin="10dp"
+                     android:background="@drawable/edt_bd"
+                     android:gravity="center"
+                     android:hint="Tìm kiếm"
+                     android:textColorHint="@color/black"
+                     android:textColor="@color/black"
+                     android:textSize="16dp"
+                     android:textStyle="bold" />
+
+             <LinearLayout
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:orientation="horizontal"
+                 android:layout_gravity="center"
+                 android:layout_weight="1">
+                 <ImageView
+                     android:layout_width="20dp"
+                     android:layout_height="20dp"
+                     android:layout_margin="4dp"
+                     android:src="@drawable/icon_map"
+                     />
+                 <TextView
+                     android:layout_width="wrap_content"
+                     android:layout_height="match_parent"
+                     android:text="Bản đồ"
+                     android:id="@+id/tvMapShop"
+                     android:textSize="16dp"
+                     android:gravity="center"
+                     android:textStyle="bold"
+                     android:textColor="@color/black"/>
+
+             </LinearLayout>
+
+
+           </LinearLayout>
+       </LinearLayout>
+   </androidx.cardview.widget.CardView>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/recyclerShop"/>
+
+</LinearLayout>

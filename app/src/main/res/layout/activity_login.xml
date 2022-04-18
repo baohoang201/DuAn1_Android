@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#FFDEAD"
+    android:layout_height="match_parent"
+    tools:context=".Login.LoginActivity"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="6dp"
+        android:id="@+id/imageView4"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/the_coffee_house_logo"
+        android:layout_gravity="center" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        >
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tab_layout"
+            app:tabMode="fixed"
+            android:layout_width="match_parent"
+            app:tabIndicator="@null"
+            android:layout_marginLeft="4dp"
+            android:layout_marginBottom="4dp"
+            android:layout_marginRight="3dp"
+            android:background="@drawable/vie_bg"
+            app:tabIndicatorHeight="0dp"
+            android:layout_height="wrap_content"
+            />
+        <androidx.viewpager2.widget.ViewPager2
+            android:id="@+id/view_pager2"
+            android:background="@drawable/backcoffee"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+             />
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

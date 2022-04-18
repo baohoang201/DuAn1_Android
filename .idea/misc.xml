@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID_NC/DuAn1_Android/app/src/main/res/drawable-v24/edt_bd.xml" value="0.2703125" />
+        <entry key="..\:/ANDROID_NC/DuAn1_Android/app/src/main/res/drawable/my_button.xml" value="0.2703125" />
+        <entry key="..\:/ANDROID_NC/DuAn1_Android/app/src/main/res/drawable/my_gradient.xml" value="0.2703125" />
+        <entry key="..\:/ANDROID_NC/DuAn1_Android/app/src/main/res/layout/activity_login.xml" value="0.21195652173913043" />
+        <entry key="..\:/ANDROID_NC/DuAn1_Android/app/src/main/res/layout/home_fragment.xml" value="0.21195652173913043" />
+        <entry key="..\:/ANDROID_NC/DuAn1_Android/app/src/main/res/layout/item_recyler_shop.xml" value="0.21195652173913043" />
+        <entry key="..\:/ANDROID_NC/DuAn1_Android/app/src/main/res/layout/shop_fragment.xml" value="0.21195652173913043" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/drawable-v24/bg_rank.xml" value="0.24259259259259258" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/drawable-v24/button_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/drawable-v24/circle_button.xml" value="0.24259259259259258" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/drawable-v24/edt_bd.xml" value="0.2703125" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/drawable-v24/giftcard.xml" value="0.24259259259259258" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/drawable-v24/indicator_default.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/drawable-v24/indicator_selected.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/drawable-v24/indicator_selector.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/drawable-v24/vie_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/drawable/bg_lv.xml" value="0.24259259259259258" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/drawable/buttonm.xml" value="0.24259259259259258" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.2651282051282051" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/drawable/ic_baseline_photo_library_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/drawable/ic_baseline_report_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/drawable/my_button.xml" value="0.2703125" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/drawable/my_gradient.xml" value="0.2703125" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/activity_intro.xml" value="0.15534420289855072" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/activity_introductory.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/activity_lien_he_va_gop_y.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/activity_main.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/activity_main2.xml" value="0.20606884057971014" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/activity_quyen_loi.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/activity_splash.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/activity_sua_san_pham.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/activity_them_san_pham.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/activity_xoa_san_pham.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/bottom_sheet.xml" value="0.4" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/bottom_sheet2.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/dialog_them.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/fragment_a.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/fragment_b.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/fragment_c.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/fragment_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/home_fragment.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/item_card_recycler.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/item_gird.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/item_lv_hotro.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/item_lv_uudai.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/item_photo_them.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/item_recycler_uudai.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/item_recyler_oder_coffe.xml" value="0.4710526315789474" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/item_recyler_sanpham.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/layout_screen.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/nangcap_admin_dialog.xml" value="0.15489130434782608" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/oder_fragment.xml" value="0.1408514492753623" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/offer_fragment.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/other_fragment.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/row_img.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/row_img_oder.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/shop_fragment.xml" value="0.15489130434782608" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/thongtin_chitiet_dialog.xml" value="0.1766304347826087" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/tich_diem_fragment.xml" value="0.1766304347826087" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/toolbar.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/layout/uu_dai_fragment.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/menu/menu_bottom_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ADMIN/Downloads/DuAn1_Android/app/src/main/res/menu/menu_toolbar.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

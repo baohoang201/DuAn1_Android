@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Other.GioiThieuActivity">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbargioithieu"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@drawable/background"
+        app:title="Giới thiệu"
+        app:titleTextColor="#fff"></androidx.appcompat.widget.Toolbar>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/the_coffee_house_logo"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The Coffee House – Ngôi Nhà Cà Phê Tại Việt Nam"
+                android:layout_gravity="center"
+                android:textSize="15dp"
+                android:textAllCaps="true"
+                android:layout_margin="5dp"
+                android:textStyle="bold"
+                android:textColor="@color/black"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#D88101"
+                android:textStyle="bold"
+                android:textSize="16dp"
+                android:layout_margin="14dp"
+                android:text="1. Giới thiệu về The coffee house"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:padding="10dp"
+                android:justificationMode="inter_word"
+                android:text="Bắt đầu ra mắt vào năm 2014 nhưng với cái tên The coffee house và sự phát triển của thương hiệu là điều mà nhiều Startup đáng mơ ước, đặc biệt trong ngành F and B. Ngôi nhà cà phê cho biết sẽ trở thành Starbucks thứ 2 ở Việt Nam, khi nhắc tới The coffee house là nhắc tới một thương hiệu cà phê Việt."
+                android:textColor="@color/black"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_gravity="center"
+                android:src="@drawable/anh1"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:padding="10dp"
+                android:justificationMode="inter_word"
+                android:text="Có 3 yếu tố tiên quyết để quán cà phê này thu hút khách hàng là không gian của quán, thái độ phục vụ của nhân viên và những tiện ích mà chuỗi cửa hàng cà phê này mang lại cho khách hàng."
+                android:textColor="@color/black"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#D88101"
+                android:textStyle="bold"
+                android:textSize="16dp"
+                android:layout_margin="14dp"
+                android:text="2. Khi đến The coffee house nên uống gì?"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:padding="10dp"
+                android:justificationMode="inter_word"
+                android:text="Tại The Coffee House, nguyên liệu làm ra cà phê và tất cả các loại thức uống đều được chọn lọc từ những nguồn cung ứng được kiểm định gắt gao, đáp ứng tiêu chuẩn chất lượng cao nhất. Và một “nguyên liệu” quan trọng hơn hết chúng tôi đưa vào từng sản phẩm là sự tâm huyết của cả đội ngũ nhân viên The Coffee House."
+                android:textColor="@color/black"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_gravity="center"
+                android:src="@drawable/anh2"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:padding="10dp"
+                android:justificationMode="inter_word"
+                android:text="Từng ly cà phê được làm ra bởi niềm đam mê với hương vị, sự chăm chút cho hạnh phúc của khách hàng, niềm hào hứng được phục vụ và sự tỉ mỉ để đạt tới chất lượng tuyệt vời nhất.
+
+Nếu bạn đang tìm kiếm một thức uống giúp bạn tỉnh táo và sảng khoái, bạn sẽ không thất vọng với các món cà phê đá xay, chỉ cầm lựa chọn hương vị ưa thích kèm cà phê của bạn trong thực đơn của The coffee house."
+                android:textColor="@color/black"/>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#D88101"
+                android:textStyle="bold"
+                android:textSize="16dp"
+                android:layout_margin="14dp"
+                android:text="3. Những khuyến mãi thường xuyên của coffee house là gì?"/>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:padding="10dp"
+                android:justificationMode="inter_word"
+                android:text="Việc tạo ra ứng dụng The Coffee House trên điện thoại di động không chỉ để “cho có” mà đây là một kênh mang lại khá nhiều doanh thu cho cửa hàng. Sau khi tích đủ 20 điểm, khách hàng được tặng 1 phần nước miễn phí và giảm giá 10% dành cho khách hàng thân thiết.
+
+Chương trình tặng mã ưu đãi đầy hấp dẫn giảm 40.000đ dành cho khách hàng của The Coffee House "
+                android:textColor="@color/black"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_gravity="center"
+                android:src="@drawable/anh3"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:padding="10dp"
+                android:justificationMode="inter_word"
+                android:text="Ngoài ra, The coffee house thường xuyên cập nhật các chương trình giảm giá và thường xuyên cung cấp các mã giảm giá hàng tháng và hàng tuần để bạn có thể thỏa thích lựa chọn những thức uống ngon tuyệt tại đây."
+                android:textColor="@color/black"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:padding="10dp"
+                android:textStyle="italic"
+                android:justificationMode="inter_word"
+                android:text="Trích: magiamgialientuc.com/the-coffee-house"
+                android:textColor="@color/black"/>
+
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>
